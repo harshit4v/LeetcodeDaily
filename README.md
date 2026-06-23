@@ -30,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/harshit4v/LeetcodeDaily/tree/master/1004-max-consecutive-ones-iii) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/harshit4v/LeetcodeDaily/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
