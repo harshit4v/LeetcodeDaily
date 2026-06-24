@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/harshit4v/LeetcodeDaily/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0344-reverse-string](https://github.com/harshit4v/LeetcodeDaily/tree/master/0344-reverse-string) |
 | [0709-to-lower-case](https://github.com/harshit4v/LeetcodeDaily/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/harshit4v/LeetcodeDaily/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/harshit4v/LeetcodeDaily/tree/master/1108-defanging-an-ip-address) |
@@ -43,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/harshit4v/LeetcodeDaily/tree/master/0007-reverse-integer) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/harshit4v/LeetcodeDaily/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
