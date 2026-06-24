@@ -14,11 +14,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/harshit4v/LeetcodeDaily/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/harshit4v/LeetcodeDaily/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0771-jewels-and-stones](https://github.com/harshit4v/LeetcodeDaily/tree/master/0771-jewels-and-stones) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/harshit4v/LeetcodeDaily/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0709-to-lower-case](https://github.com/harshit4v/LeetcodeDaily/tree/master/0709-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/harshit4v/LeetcodeDaily/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/harshit4v/LeetcodeDaily/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/harshit4v/LeetcodeDaily/tree/master/1528-shuffle-string) |
 | [1678-goal-parser-interpretation](https://github.com/harshit4v/LeetcodeDaily/tree/master/1678-goal-parser-interpretation) |
