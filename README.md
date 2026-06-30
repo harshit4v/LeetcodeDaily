@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/harshit4v/LeetcodeDaily/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0171-excel-sheet-column-number](https://github.com/harshit4v/LeetcodeDaily/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/harshit4v/LeetcodeDaily/tree/master/0344-reverse-string) |
 | [0709-to-lower-case](https://github.com/harshit4v/LeetcodeDaily/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/harshit4v/LeetcodeDaily/tree/master/0771-jewels-and-stones) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/harshit4v/LeetcodeDaily/tree/master/0007-reverse-integer) |
+| [0171-excel-sheet-column-number](https://github.com/harshit4v/LeetcodeDaily/tree/master/0171-excel-sheet-column-number) |
 ## Two Pointers
 |  |
 | ------- |
