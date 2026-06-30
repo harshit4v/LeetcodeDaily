@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/harshit4v/LeetcodeDaily/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/harshit4v/LeetcodeDaily/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0771-jewels-and-stones](https://github.com/harshit4v/LeetcodeDaily/tree/master/0771-jewels-and-stones) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/harshit4v/LeetcodeDaily/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## String
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/harshit4v/LeetcodeDaily/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/harshit4v/LeetcodeDaily/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/harshit4v/LeetcodeDaily/tree/master/1108-defanging-an-ip-address) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/harshit4v/LeetcodeDaily/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1528-shuffle-string](https://github.com/harshit4v/LeetcodeDaily/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/harshit4v/LeetcodeDaily/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/harshit4v/LeetcodeDaily/tree/master/1678-goal-parser-interpretation) |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/harshit4v/LeetcodeDaily/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/harshit4v/LeetcodeDaily/tree/master/1004-max-consecutive-ones-iii) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/harshit4v/LeetcodeDaily/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Binary Search
 |  |
 | ------- |
