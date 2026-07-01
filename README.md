@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/harshit4v/LeetcodeDaily/tree/master/0001-two-sum) |
+| [0055-jump-game](https://github.com/harshit4v/LeetcodeDaily/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/harshit4v/LeetcodeDaily/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/harshit4v/LeetcodeDaily/tree/master/0860-lemonade-change) |
 | [0930-binary-subarrays-with-sum](https://github.com/harshit4v/LeetcodeDaily/tree/master/0930-binary-subarrays-with-sum) |
@@ -84,10 +85,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/harshit4v/LeetcodeDaily/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/harshit4v/LeetcodeDaily/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/harshit4v/LeetcodeDaily/tree/master/0860-lemonade-change) |
 ## Sorting
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/harshit4v/LeetcodeDaily/tree/master/0455-assign-cookies) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/harshit4v/LeetcodeDaily/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
