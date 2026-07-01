@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/harshit4v/LeetcodeDaily/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/harshit4v/LeetcodeDaily/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/harshit4v/LeetcodeDaily/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/harshit4v/LeetcodeDaily/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/harshit4v/LeetcodeDaily/tree/master/1004-max-consecutive-ones-iii) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/harshit4v/LeetcodeDaily/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -60,4 +62,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/harshit4v/LeetcodeDaily/tree/master/0344-reverse-string) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/harshit4v/LeetcodeDaily/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Union-Find
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/harshit4v/LeetcodeDaily/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/harshit4v/LeetcodeDaily/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Matrix
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/harshit4v/LeetcodeDaily/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
