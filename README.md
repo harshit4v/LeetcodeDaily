@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/harshit4v/LeetcodeDaily/tree/master/0001-two-sum) |
 | [0455-assign-cookies](https://github.com/harshit4v/LeetcodeDaily/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/harshit4v/LeetcodeDaily/tree/master/0860-lemonade-change) |
 | [0930-binary-subarrays-with-sum](https://github.com/harshit4v/LeetcodeDaily/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/harshit4v/LeetcodeDaily/tree/master/1004-max-consecutive-ones-iii) |
 | [1528-shuffle-string](https://github.com/harshit4v/LeetcodeDaily/tree/master/1528-shuffle-string) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/harshit4v/LeetcodeDaily/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/harshit4v/LeetcodeDaily/tree/master/0860-lemonade-change) |
 ## Sorting
 |  |
 | ------- |
