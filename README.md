@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/harshit4v/LeetcodeDaily/tree/master/0001-two-sum) |
 | [0055-jump-game](https://github.com/harshit4v/LeetcodeDaily/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/harshit4v/LeetcodeDaily/tree/master/0455-assign-cookies) |
+| [0713-subarray-product-less-than-k](https://github.com/harshit4v/LeetcodeDaily/tree/master/0713-subarray-product-less-than-k) |
 | [0860-lemonade-change](https://github.com/harshit4v/LeetcodeDaily/tree/master/0860-lemonade-change) |
 | [0930-binary-subarrays-with-sum](https://github.com/harshit4v/LeetcodeDaily/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/harshit4v/LeetcodeDaily/tree/master/1004-max-consecutive-ones-iii) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/harshit4v/LeetcodeDaily/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/harshit4v/LeetcodeDaily/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/harshit4v/LeetcodeDaily/tree/master/0424-longest-repeating-character-replacement) |
+| [0713-subarray-product-less-than-k](https://github.com/harshit4v/LeetcodeDaily/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/harshit4v/LeetcodeDaily/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/harshit4v/LeetcodeDaily/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/harshit4v/LeetcodeDaily/tree/master/1248-count-number-of-nice-subarrays) |
@@ -58,11 +60,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/harshit4v/LeetcodeDaily/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/harshit4v/LeetcodeDaily/tree/master/1004-max-consecutive-ones-iii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/harshit4v/LeetcodeDaily/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/harshit4v/LeetcodeDaily/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/harshit4v/LeetcodeDaily/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/harshit4v/LeetcodeDaily/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/harshit4v/LeetcodeDaily/tree/master/1248-count-number-of-nice-subarrays) |
