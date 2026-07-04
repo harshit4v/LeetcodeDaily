@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/harshit4v/LeetcodeDaily/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/harshit4v/LeetcodeDaily/tree/master/0014-longest-common-prefix) |
 | [0055-jump-game](https://github.com/harshit4v/LeetcodeDaily/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/harshit4v/LeetcodeDaily/tree/master/0455-assign-cookies) |
 | [0713-subarray-product-less-than-k](https://github.com/harshit4v/LeetcodeDaily/tree/master/0713-subarray-product-less-than-k) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/harshit4v/LeetcodeDaily/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/harshit4v/LeetcodeDaily/tree/master/0014-longest-common-prefix) |
 | [0076-minimum-window-substring](https://github.com/harshit4v/LeetcodeDaily/tree/master/0076-minimum-window-substring) |
 | [0171-excel-sheet-column-number](https://github.com/harshit4v/LeetcodeDaily/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/harshit4v/LeetcodeDaily/tree/master/0344-reverse-string) |
@@ -119,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1527-patients-with-a-condition](https://github.com/harshit4v/LeetcodeDaily/tree/master/1527-patients-with-a-condition) |
 | [1683-invalid-tweets](https://github.com/harshit4v/LeetcodeDaily/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/harshit4v/LeetcodeDaily/tree/master/1757-recyclable-and-low-fat-products) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/harshit4v/LeetcodeDaily/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
