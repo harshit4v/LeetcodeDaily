@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1678-goal-parser-interpretation](https://github.com/harshit4v/LeetcodeDaily/tree/master/1678-goal-parser-interpretation) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/harshit4v/LeetcodeDaily/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2315-count-asterisks](https://github.com/harshit4v/LeetcodeDaily/tree/master/2315-count-asterisks) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/harshit4v/LeetcodeDaily/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -79,12 +80,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/harshit4v/LeetcodeDaily/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/harshit4v/LeetcodeDaily/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/harshit4v/LeetcodeDaily/tree/master/1248-count-number-of-nice-subarrays) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/harshit4v/LeetcodeDaily/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Math
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/harshit4v/LeetcodeDaily/tree/master/0007-reverse-integer) |
 | [0171-excel-sheet-column-number](https://github.com/harshit4v/LeetcodeDaily/tree/master/0171-excel-sheet-column-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/harshit4v/LeetcodeDaily/tree/master/1248-count-number-of-nice-subarrays) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/harshit4v/LeetcodeDaily/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Two Pointers
 |  |
 | ------- |
