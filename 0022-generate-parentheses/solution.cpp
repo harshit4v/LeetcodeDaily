@@ -1,21 +1,22 @@
 class Solution {
-    private:
-    void pattern(int open,int close,int n,string s,vector<string>&ans){
-        if(open==close && (open+close)==2*n){
-            ans.push_back(s);
+public:
+   void func(int ind,string s ,int open,int close,vector<string>&res,int n){
+        if(ind==2*n && open ==close){
+            res.push_back(s);
             return;
         }
         if(open<n){
-            pattern(open+1,close,n,s+'(',ans);
+            func(ind+1,s+'(',open+1,close,res,n);
         }
         if(close<open){
-            pattern(open,close+1,n,s+')',ans);
+            func(ind+1,s+')',open,close+1,res,n);
         }
     }
-public:
     vector<string> generateParenthesis(int n) {
-        vector<string>ans;
-        pattern(0,0,n,"",ans);
-        return ans;
+        //your code goes here
+        vector<string>res;
+        int ind=0;
+        func(ind,"",0,0,res,n);
+        return res;
     }
 };
