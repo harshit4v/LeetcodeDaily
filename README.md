@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/harshit4v/LeetcodeDaily/tree/master/1248-count-number-of-nice-subarrays) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/harshit4v/LeetcodeDaily/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1528-shuffle-string](https://github.com/harshit4v/LeetcodeDaily/tree/master/1528-shuffle-string) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/harshit4v/LeetcodeDaily/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/harshit4v/LeetcodeDaily/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/harshit4v/LeetcodeDaily/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2465-number-of-distinct-averages](https://github.com/harshit4v/LeetcodeDaily/tree/master/2465-number-of-distinct-averages) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/harshit4v/LeetcodeDaily/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/harshit4v/LeetcodeDaily/tree/master/1004-max-consecutive-ones-iii) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/harshit4v/LeetcodeDaily/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/harshit4v/LeetcodeDaily/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/harshit4v/LeetcodeDaily/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Prefix Sum
 |  |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0344-reverse-string](https://github.com/harshit4v/LeetcodeDaily/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/harshit4v/LeetcodeDaily/tree/master/0455-assign-cookies) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/harshit4v/LeetcodeDaily/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2465-number-of-distinct-averages](https://github.com/harshit4v/LeetcodeDaily/tree/master/2465-number-of-distinct-averages) |
 ## Breadth-First Search
 |  |
@@ -145,4 +148,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/harshit4v/LeetcodeDaily/tree/master/0014-longest-common-prefix) |
+## Stack
+|  |
+| ------- |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/harshit4v/LeetcodeDaily/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/harshit4v/LeetcodeDaily/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 <!---LeetCode Topics End-->
