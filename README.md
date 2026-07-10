@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/harshit4v/LeetcodeDaily/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/harshit4v/LeetcodeDaily/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/harshit4v/LeetcodeDaily/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/harshit4v/LeetcodeDaily/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/harshit4v/LeetcodeDaily/tree/master/0076-minimum-window-substring) |
 | [0168-excel-sheet-column-title](https://github.com/harshit4v/LeetcodeDaily/tree/master/0168-excel-sheet-column-title) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/harshit4v/LeetcodeDaily/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/harshit4v/LeetcodeDaily/tree/master/0055-jump-game) |
 ## Database
 |  |
@@ -161,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/harshit4v/LeetcodeDaily/tree/master/0050-powx-n) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/harshit4v/LeetcodeDaily/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
