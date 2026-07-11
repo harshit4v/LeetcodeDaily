@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/harshit4v/LeetcodeDaily/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/harshit4v/LeetcodeDaily/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/harshit4v/LeetcodeDaily/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/harshit4v/LeetcodeDaily/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/harshit4v/LeetcodeDaily/tree/master/0424-longest-repeating-character-replacement) |
 | [0709-to-lower-case](https://github.com/harshit4v/LeetcodeDaily/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/harshit4v/LeetcodeDaily/tree/master/0771-jewels-and-stones) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/harshit4v/LeetcodeDaily/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/harshit4v/LeetcodeDaily/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/harshit4v/LeetcodeDaily/tree/master/0455-assign-cookies) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/harshit4v/LeetcodeDaily/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2465-number-of-distinct-averages](https://github.com/harshit4v/LeetcodeDaily/tree/master/2465-number-of-distinct-averages) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/harshit4v/LeetcodeDaily/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/harshit4v/LeetcodeDaily/tree/master/0055-jump-game) |
+| [0392-is-subsequence](https://github.com/harshit4v/LeetcodeDaily/tree/master/0392-is-subsequence) |
 ## Database
 |  |
 | ------- |
