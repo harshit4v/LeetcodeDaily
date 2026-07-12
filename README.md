@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/harshit4v/LeetcodeDaily/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/harshit4v/LeetcodeDaily/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/harshit4v/LeetcodeDaily/tree/master/1248-count-number-of-nice-subarrays) |
+| [1331-rank-transform-of-an-array](https://github.com/harshit4v/LeetcodeDaily/tree/master/1331-rank-transform-of-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/harshit4v/LeetcodeDaily/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1528-shuffle-string](https://github.com/harshit4v/LeetcodeDaily/tree/master/1528-shuffle-string) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/harshit4v/LeetcodeDaily/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/harshit4v/LeetcodeDaily/tree/master/0771-jewels-and-stones) |
 | [0930-binary-subarrays-with-sum](https://github.com/harshit4v/LeetcodeDaily/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/harshit4v/LeetcodeDaily/tree/master/1248-count-number-of-nice-subarrays) |
+| [1331-rank-transform-of-an-array](https://github.com/harshit4v/LeetcodeDaily/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/harshit4v/LeetcodeDaily/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2465-number-of-distinct-averages](https://github.com/harshit4v/LeetcodeDaily/tree/master/2465-number-of-distinct-averages) |
 ## String
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/harshit4v/LeetcodeDaily/tree/master/0455-assign-cookies) |
+| [1331-rank-transform-of-an-array](https://github.com/harshit4v/LeetcodeDaily/tree/master/1331-rank-transform-of-an-array) |
 | [2465-number-of-distinct-averages](https://github.com/harshit4v/LeetcodeDaily/tree/master/2465-number-of-distinct-averages) |
 ## Dynamic Programming
 |  |
