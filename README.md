@@ -183,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/harshit4v/LeetcodeDaily/tree/master/0078-subsets) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/harshit4v/LeetcodeDaily/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
