@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/harshit4v/LeetcodeDaily/tree/master/0040-combination-sum-ii) |
 | [0055-jump-game](https://github.com/harshit4v/LeetcodeDaily/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/harshit4v/LeetcodeDaily/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/harshit4v/LeetcodeDaily/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/harshit4v/LeetcodeDaily/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/harshit4v/LeetcodeDaily/tree/master/0216-combination-sum-iii) |
 | [0455-assign-cookies](https://github.com/harshit4v/LeetcodeDaily/tree/master/0455-assign-cookies) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/harshit4v/LeetcodeDaily/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/harshit4v/LeetcodeDaily/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/harshit4v/LeetcodeDaily/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/harshit4v/LeetcodeDaily/tree/master/0079-word-search) |
 | [0168-excel-sheet-column-title](https://github.com/harshit4v/LeetcodeDaily/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/harshit4v/LeetcodeDaily/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/harshit4v/LeetcodeDaily/tree/master/0344-reverse-string) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/harshit4v/LeetcodeDaily/tree/master/0079-word-search) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/harshit4v/LeetcodeDaily/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Greedy
 |  |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/harshit4v/LeetcodeDaily/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/harshit4v/LeetcodeDaily/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/harshit4v/LeetcodeDaily/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/harshit4v/LeetcodeDaily/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/harshit4v/LeetcodeDaily/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/harshit4v/LeetcodeDaily/tree/master/0216-combination-sum-iii) |
 ## Bit Manipulation
@@ -192,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/harshit4v/LeetcodeDaily/tree/master/1291-sequential-digits) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/harshit4v/LeetcodeDaily/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
