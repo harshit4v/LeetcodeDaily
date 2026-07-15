@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/harshit4v/LeetcodeDaily/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/harshit4v/LeetcodeDaily/tree/master/0171-excel-sheet-column-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/harshit4v/LeetcodeDaily/tree/master/1248-count-number-of-nice-subarrays) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/harshit4v/LeetcodeDaily/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/harshit4v/LeetcodeDaily/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Two Pointers
 |  |
@@ -200,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/harshit4v/LeetcodeDaily/tree/master/0079-word-search) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/harshit4v/LeetcodeDaily/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
