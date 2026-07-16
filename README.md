@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/harshit4v/LeetcodeDaily/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2465-number-of-distinct-averages](https://github.com/harshit4v/LeetcodeDaily/tree/master/2465-number-of-distinct-averages) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/harshit4v/LeetcodeDaily/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/harshit4v/LeetcodeDaily/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/harshit4v/LeetcodeDaily/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/harshit4v/LeetcodeDaily/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/harshit4v/LeetcodeDaily/tree/master/0171-excel-sheet-column-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/harshit4v/LeetcodeDaily/tree/master/1248-count-number-of-nice-subarrays) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/harshit4v/LeetcodeDaily/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/harshit4v/LeetcodeDaily/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/harshit4v/LeetcodeDaily/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/harshit4v/LeetcodeDaily/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/harshit4v/LeetcodeDaily/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/harshit4v/LeetcodeDaily/tree/master/0055-jump-game) |
 | [0392-is-subsequence](https://github.com/harshit4v/LeetcodeDaily/tree/master/0392-is-subsequence) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/harshit4v/LeetcodeDaily/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Database
 |  |
 | ------- |
@@ -208,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/harshit4v/LeetcodeDaily/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/harshit4v/LeetcodeDaily/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/harshit4v/LeetcodeDaily/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
