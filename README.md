@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/harshit4v/LeetcodeDaily/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/harshit4v/LeetcodeDaily/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/harshit4v/LeetcodeDaily/tree/main/LeetCode/Medium/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/harshit4v/LeetcodeDaily/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2007-find-original-array-from-doubled-array](https://github.com/harshit4v/LeetcodeDaily/tree/master/2007-find-original-array-from-doubled-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/harshit4v/LeetcodeDaily/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2465-number-of-distinct-averages](https://github.com/harshit4v/LeetcodeDaily/tree/master/2465-number-of-distinct-averages) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/harshit4v/LeetcodeDaily/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/harshit4v/LeetcodeDaily/tree/master/0171-excel-sheet-column-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/harshit4v/LeetcodeDaily/tree/master/1248-count-number-of-nice-subarrays) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/harshit4v/LeetcodeDaily/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/harshit4v/LeetcodeDaily/tree/main/LeetCode/Hard/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/harshit4v/LeetcodeDaily/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/harshit4v/LeetcodeDaily/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/harshit4v/LeetcodeDaily/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/harshit4v/LeetcodeDaily/tree/main/LeetCode/Hard/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/harshit4v/LeetcodeDaily/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/harshit4v/LeetcodeDaily/tree/master/3658-gcd-of-odd-and-even-sums) |
