@@ -1,5 +1,3 @@
-# LeetcodeDaily
-<!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
 | Problem Name | Difficulty |
