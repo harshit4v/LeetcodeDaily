@@ -6,7 +6,7 @@ public:
         unordered_map<int,int>mp;
         for(int i=0;i<n;i++){
             mp[nums[i]]++;
-            while(mp[nums[i]]>k){
+            while(i>j && mp[nums[i]]>k){
                 mp[nums[j]]--;
                 j++;
             }
