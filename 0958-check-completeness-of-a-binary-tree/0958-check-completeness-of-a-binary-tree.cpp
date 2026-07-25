@@ -12,7 +12,8 @@
 class Solution {
 public:
     bool isCompleteTree(TreeNode* root) {
-        queue<TreeNode*>q;
+        //USING BFS
+        /*queue<TreeNode*>q;
         q.push(root);
         bool past=false;
         while(!q.empty()){
@@ -28,6 +29,32 @@ public:
             q.push(node->right);
             }
         }
-        return true;
+        return true;*/
+        
+
+        //USING DFS
+        //LEFT CHILD=2*i
+        //RIGHT CHILD=2*i+1
+        //if(index>total count of node) to complete binary tree nahi hai warna hai 
+        
+        int totalnodes=countNodes(root);
+        int i=1;
+        return dfs(root,i,totalnodes);
+    }
+
+    int countNodes(TreeNode *node){
+        if(node==NULL){
+            return 0;
+        }
+        return 1+countNodes(node->left)+countNodes(node->right);
+    }
+    bool dfs(TreeNode* root,int i,int totalnodes){
+        if(root==NULL){
+            return true;
+        }
+        if(i>totalnodes){
+            return false;
+        }
+        return dfs(root->left,2*i,totalnodes) && dfs(root->right,2*i+1,totalnodes);
     }
 };
