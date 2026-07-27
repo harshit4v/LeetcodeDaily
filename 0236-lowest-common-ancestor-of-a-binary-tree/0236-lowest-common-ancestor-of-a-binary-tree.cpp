@@ -19,14 +19,14 @@ public:
         //left & rightside se value nikal lo
         TreeNode *leftN=lowestCommonAncestor(root->left,p,q);
         TreeNode *rightN=lowestCommonAncestor(root->right,p,q);
-        if(leftN!=NULL && rightN!=NULL){
-            return root;
-        }
-        if(leftN!=NULL){
-            return leftN;
-        }else{
+        if(leftN==NULL){
             return rightN;
         }
-
+        else if(rightN==NULL){
+            return leftN;
+        }
+        else{
+            return root;
+        }
     }
 };
