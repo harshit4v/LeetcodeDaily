@@ -14,8 +14,8 @@ public:
 
 
     //if we reach the leaf and our sum != target we popback out last node but here me didnt made the temp pass as of reference so it did the same we can also use temp.pop_bakc()
-    vector<vector<int>>result;
-    void fill(TreeNode *root,int sum,vector<int>temp,int &targetSum){
+    
+    void fill(TreeNode *root,int sum,vector<int>temp,int &targetSum,vector<vector<int>>&result){
         if(root==NULL){
             return;
         }
@@ -28,15 +28,16 @@ public:
             //temp.pop_back()         ->if we didnt pass a  reference 
             return;
         }
-        fill(root->left,sum,temp,targetSum);
-        fill(root->right,sum,temp,targetSum);
+        fill(root->left,sum,temp,targetSum,result);
+        fill(root->right,sum,temp,targetSum,result);
         //temp.pop_back()         ->if we didnt pass a  reference 
 
     }
     vector<vector<int>> pathSum(TreeNode* root, int targetSum) {
         vector<int>temp;
-        int sum=0;
-        fill(root,sum,temp,targetSum);
+        vector<vector<int>>result;
+        // int sum=0;
+        fill(root,0,temp,targetSum,result);
         return result;
     }
 };
